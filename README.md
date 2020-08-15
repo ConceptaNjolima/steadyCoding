@@ -21,11 +21,11 @@ Together, we will enjoy the ride, steady and coding!
 
 ## Resources
 I understand that not everyone is able to access internet all the time and that is my motivation to have less of the synchronous meetings.
-Our primary resource for this class is the ![Odin Project](https://www.theodinproject.com/home). Although it is not require, i highly recommend setting up an account with The Odin project to keep track of your progress.
+Our primary resource for this class is the [Odin Project](https://www.theodinproject.com/home). Although it is not require, i highly recommend setting up an account with The Odin project to keep track of your progress.
 In addition to the weekly meetings, I will be available for extra support by email, slack, or another communication channel.
 
 ## Plan
-During this program, we will concetrate on some of the web development sections on ![Odin Project](https://www.theodinproject.com/home), although to is recommended to look through the other sections too
+During this program, we will concetrate on some of the web development sections on [Odin Project](https://www.theodinproject.com/home), although to is recommended to look through the other sections too
 
 
 
@@ -39,3 +39,6 @@ During this program, we will concetrate on some of the web development sections 
 | 6 | Fundamentals 3, Project Rock, Paper, Scissors|
 | 7 | Fundamentals 4, DOM manipulation |
 | 8 | Fundamentals 5, Project calculator|
+
+## Conclusion
+Thank you for reading this far. I hope I see you join in the project
