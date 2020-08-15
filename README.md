@@ -1,4 +1,4 @@
-# steadyCoding
+# SteadyCoding
 ## Introduction
 Welcome to steadyCoding, this my personal iniative to share my coding skills with my Ugandan firends. My motivation stems off from a conversation I heard with one friend about how schools in Uganda have been in lockdown due to covid-19 for over five months. I thought this woud be a great time t share some of my coding skills with my peers back home.
 Welcome aboard, everyone!
@@ -26,8 +26,11 @@ In addition to the weekly meetings, I will be available for extra support by ema
 
 ## Plan
 During this program, we will concetrate on some of the web development sections on ![Odin Project](https://www.theodinproject.com/home), although to is recommended to look through the other sections too
+
+
+
 |Week|To Cover|
-...............
+|--------|--------|
 | 1 | Installations |
 | 2 | Git basics |
 | 3 | HTML and CSS |
