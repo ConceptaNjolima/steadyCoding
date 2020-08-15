@@ -18,7 +18,7 @@ This will be our primary resource for our sessions.
 - My dream is to expand to back-end web development, and eventually build steady full-stack web developers.
 - We will organize one-hour meetings weekly to discuss key takeaways from our week's assignments and present the projects we will have completed for that week.
 
-* Note: I will also be learning along with everyone, so we will all be resources to each other! *
+*Note: I will also be learning along with everyone, so we will all be resources to each other!*
 
 Together, we will enjoy the ride, steady, and coding!
 
