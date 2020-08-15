@@ -11,11 +11,13 @@ The goals of this project are simple:
 ## Expectations
 I recently found a great open source tool called The Odin project that has an easy explanaton of web development concepts.
 This will be our primary resource for our sessions.
-For the introduction, we will concetrate on front-end web development using HTML, CSS, and JavaScript.
-My dream is to expand to back-end web development, and eventually build steady full-stack web developers.
-We will organizeone-hour meetings weekly to discuss key take aways from our week's assignments and present the projects we will have completed for that week.
 
-Note: I will also be learning along with everyone, so we will all be resources to eavh other!
+
+- For the introduction, we will concetrate on front-end web development using HTML, CSS, and JavaScript.
+- My dream is to expand to back-end web development, and eventually build steady full-stack web developers.
+- We will organizeone-hour meetings weekly to discuss key take aways from our week's assignments and present the projects we will have completed for that week.
+
+* Note: I will also be learning along with everyone, so we will all be resources to eavh other! *
 
 Together, we will enjoy the ride, steady and coding!
 
